@@ -1,0 +1,80 @@
+.all {
+  margin: 0px;
+  padding: 0px;
+  background-color: #3E6B63;
+}
+
+.body { margin: 0; padding: 0; background-color: #1E6B5D; height: 870px; width: 500px; margin-left: auto; margin-right: auto; text-align: center; padding-top: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 14px; }
+
+.title {
+  color: #8AEEDC;
+}
+
+.photo {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 4px solid #3E6B63;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contact a {
+  text-decoration: none;
+  color: white;
+} 
+
+ul li {
+  padding: 5px;
+  margin: 10px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.contact {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.contact a {
+  margin-left: 5px;
+}
+
+.qr {
+  width: 150px;
+  height: 150px;
+}
+
+.qrcode {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: flex;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+h2 {
+  color: #41EACB;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.wpp-icon, .email-icon {
+  display: inline;
+  height: 30px;
+  width: 30px;
+}
+
+.email-icon {
+  height: 40px;
+  width: 40px;
+}
+
+h3 {
+  margin-left: 10px;
+  color: #8AEEDC;
+}
